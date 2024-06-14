@@ -2,7 +2,7 @@
 
 - 📚 Majoring in Computer Science: Machine Learning
 - 🏫 Web Developer at [BYU Campus Accommodations](https://reslife.byu.edu/)
-- 🎮 Developed and own [BasketFlyer](startup.basketflyer.com) a fun indie web game
+- 🎮 Developed and own [BasketFlyer](https://startup.basketflyer.com/) a fun indie web game
 
 ### 🛠️ Technologies 
 
