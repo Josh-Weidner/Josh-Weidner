@@ -10,7 +10,7 @@
 
 ### 🤝 Connect with Me 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)]([https://skillicons.dev](https://www.linkedin.com/in/josh-weidner/))
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/josh-weidner/)
 
 <!---
 Josh-Weidner/Josh-Weidner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
