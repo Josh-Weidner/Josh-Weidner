@@ -6,7 +6,7 @@
 
 ### 🛠️ Technologies 
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,j,swift,py,c,cpp,cs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,java,swift,py,c,cpp,cs&perline=4)](https://skillicons.dev)
 
 ### 🤝 Connect with Me 
 
