@@ -1,7 +1,7 @@
 ### 👨‍💻 About Me
 
 - 📚 Majoring in Computer Science: Machine Learning
-- 🏫 Full Stack Developer at [BYU Campus Accommodations](https://reslife.byu.edu/)
+- 🏫 Lead Full Stack Developer at [BYU](https://reslife.byu.edu/)
 - 🎮 Developed and own a fun indie web game [BasketFlyer](https://startup.basketflyer.com/) (No longer running)
 
 ### 🛠️ Technologies 
